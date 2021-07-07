@@ -15,6 +15,6 @@ Adding a new line
 
 ### Copyright
 
-2021 Git copyright
+2021 Git copyright. All right reserved
 
 ## How to Contribute
